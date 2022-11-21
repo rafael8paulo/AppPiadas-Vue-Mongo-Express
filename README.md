@@ -21,4 +21,6 @@
   <li>Vue 3</li>
   <li>Vuetify 3</li>
   <li>M.V.C</li>
+  <li>Axios</li>
+  <li>Bootstrap</li>
 </ul>
