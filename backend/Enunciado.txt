@@ -1,0 +1,13 @@
+Desenvolva uma interface web (Vue) que ao seu acessada consulte um database MongoDB e 
+# mostre uma piada aleatória qualquer.
+Na mesma interface convide o usuário a realizar duas ações:
+
+# Cadastrar uma nova piada 
+# Ver as piadas cadastradas previamente com opção de filtro de busca 
+# e ao clicar em uma delas, mostre seus dados em uma janela popup. [API OK]
+
+As piadas possuem as seguintes informações:
+id, titulo, texto, [categoria] [API OK]
+A categoria não é digitada, mas selecionada a partir de dados recuperados da base de dados, [API OK]
+
+# portando você pode criar um collection com algumas categorias de piadas e inserir manualmente no MongoDB.
